@@ -1,4 +1,4 @@
-# CoderSchool FTW - * Name of Your Project Here *
+# CoderSchool FTW - * Phil's Forecast (Weather App) *
 
 Created with love by: `Philip Nguyen`
 
